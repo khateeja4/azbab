@@ -1,0 +1,35 @@
+#wish{
+    background-color: rgb(9, 79, 82);
+    color:aquamarine;
+}
+div{
+    height: 1000px;
+    width:300px;
+    margin:25px;
+
+    display: inline;
+    float: left;
+   /* border: 5px solid gray;
+    background-image: linear-gradient(150deg, #EAFAF1 , #E8DAEF 30%,#E5E8E8 );*/
+}
+/*b1{
+    background-color: red;
+    margin-left: 100px;
+    height:100px;
+}
+#b2{
+   
+    background-color: green;
+    margin-left: 100px;
+    color: yellow;
+    height:100px;
+    
+}
+#b3{
+    background-color: purple;
+    height:100px;
+    margin-left: 100px;
+    color: green;
+
+}*/
+
